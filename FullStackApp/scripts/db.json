@@ -1,0 +1,19 @@
+
+{
+    "users":[
+        {
+            "id": 1,
+            "name": "test",
+            "email": "test@gmail.com"
+        }
+    ],
+
+    "todos" : [
+        {
+            "id" : 1,
+            "task" : "Learn DOM",
+            "userId" : 1,
+            "completed" : false
+        }
+    ]
+}
